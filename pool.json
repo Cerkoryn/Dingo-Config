@@ -1,7 +1,7 @@
 {
-  "name": "CERK pool.",
+  "name": "CERK pool",
   "description": "Cerkoryn's Dingo node on Preview",
   "ticker": "CERK",
   "homepage": "https://x.com/Cerkoryn",
-  "extended": "https://cerkoryn.github.io/Dingo-Config/extendedPoolMetaData.json"
+  "extended": "https://cerkoryn.github.io/Dingo-Config/ext.json"
 }
