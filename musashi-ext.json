@@ -1,0 +1,22 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/Cerkoryn/governance-reference/refs/heads/main/PFP_64x64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/Cerkoryn/governance-reference/refs/heads/main/PFP.png",
+    "location": "Michigan, USA",
+    "social": {
+      "twitter_handle": "Cerkoryn",
+      "telegram_handle": "Cerkoryn",
+      "discord_handle": "Cerkoryn",
+      "github_handle": "Cerkoryn"
+    },
+    "about": {
+      "me": "https://x.com/Cerkoryn",
+      "server": "Bare metal stake pool on Apple silicon M4 Mac Mini",
+      "company": "ByteBandit, LLC"
+    }
+  },
+  "my-pool-ids": {
+    "0": "pool1zzsd237g2cdha6t66cw3qw23mskgzgfu9m58s96hmg7mjfdxjct",
+    "1": "10a0d547c8561b7ee97ad61d103951dc2c81213c2ee8781757da3db9"
+  }
+}
